@@ -74,4 +74,3 @@ Softwares and Tools:
 ![Datagrip](https://img.shields.io/badge/Datagrip-000?&logo=datagrip)
 ![Pycharm](https://img.shields.io/badge/Pycharm-000?&logo=pycharm)
 ![VSCode](https://img.shields.io/badge/VSCode-000?&logo=visual%20studio%20code)
-![VSCode](https://img.shields.io/badge/VSCode-000?&logo=visual%20studio%20code)
