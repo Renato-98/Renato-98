@@ -32,7 +32,7 @@ Magister en ciencia de datos de la Universidad de Chile (https://mds.uchile.cl/)
 
 <br>
 
-- 💙 Estoy interesado en Machine y Deep Learning en los campos de las ciencias matemáticas y astronomía, inteligencia artificial y LLM. 
+- 💙 Estoy interesado en la IA, Machine y Deep Learning, tanto en la industria como en los campos de las ciencias.
 - 📚 Soy Licenciado en ciencias con mención en física de la Universidad de Chile. Y estudiante de magíster en ciencia de datos en la Universidad de Chile.
 - 👾 Me gusta jugar videojuegos online como single-player.
 - 🏐 Me gustan los deportes colectivos, en especial el Voleibol.
