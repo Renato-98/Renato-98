@@ -26,6 +26,8 @@ Magister en ciencia de datos de la Universidad de Chile (https://mds.uchile.cl/)
     </a>
 </p>
 
+![DeepML Renato Pino](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.1eb270f2148c211f72c94d84aba42430.label&prefix=Rank%20&style=plastic&label=%F0%9F%9A%80%20DeepML&color=4d0dfd&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
+
 ## Some info 😺
 
 <br>
